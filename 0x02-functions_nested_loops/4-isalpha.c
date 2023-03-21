@@ -9,10 +9,18 @@
  * Return: 1 is c if true else 0
 */
 
-int _isalpha(int c)
+int main(void)
 {
-	if (c >= 97 && c <= 122 &&  c >= 65 && c >= 90)
-		return (1);
-	return (0);
+   int r;
+   r = _isalpha('H');
+   _putchar(r + 'O');
+   r = _isalpha('0');
+   _putchar(r + 'O');
+   r = _isalpha(100);
+   _putchar(r + 'O');
+   r = _isalpha(';');
+   _putchar(r + 'O');
+   _putchar('\n');
+   return(0);
 }
 
