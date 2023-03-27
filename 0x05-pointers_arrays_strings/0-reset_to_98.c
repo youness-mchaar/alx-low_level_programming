@@ -1,12 +1,11 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include "main.h"
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * reset_to_98 - updates the value *n points to.
+ * @n: the number to modify.
  */
 
-void reset_to_98(int *n){
-	 *n=98;
- }
+void reset_to_98(int *n)
+{
+	*n = 98;
+}
