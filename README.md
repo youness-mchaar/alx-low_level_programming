@@ -1,1 +1,1 @@
-HELLO 0x00-hello_world
+More on Pointers, Arrays and Strings
