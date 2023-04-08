@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isalpha - check the code for Holberton School students.
+ * _isalpha - check the code for ALX School students.
  *
  * @c: is c an integer argument
  *
@@ -21,3 +21,5 @@ int _isalpha(int c)
 	}
 	return (0);
 }
+
+
