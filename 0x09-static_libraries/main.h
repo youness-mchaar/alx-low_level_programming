@@ -1,6 +1,11 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+<<<<<<< HEAD
+=======
+/*copy list from task*/
+
+>>>>>>> HELLO ALL FILS 0-
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
